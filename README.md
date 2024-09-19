@@ -1,7 +1,7 @@
 <h1>Hi, I'm Michael Ogunjobi! <br/><a href="https://github.com/Michaelogunjobi">Data Analyst</a>, <a href="https://www.linkedin.com/in/michael-ogunjobi-60b08b167/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Michaelogunjobi/ActiveDirectoryLab/blob/main/README.md))
+  - [File permissions in Linux](https://github.com/Michaelogunjobi/ActiveDirectoryLab/blob/main/README.md))
   - [Hello world!](https://github.com/Michaelogunjobi/LIBRARY)
 
 <h2> Certification</h2>
