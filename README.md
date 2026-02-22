@@ -1,24 +1,13 @@
-<h1>Hi, I'm Michael Ogunjobi! <br/><a href="https://github.com/Michaelogunjobi">Data Analyst</a>, <a href="https://www.linkedin.com/in/michael-ogunjobi-60b08b167/">Software Developer</a>
-<h2>👨‍💻 Softwares Developer:</h2>
+<h1>Hi, I'm Michael Ogunjobi! <br/><a href="https://github.com/Michaelogunjobi">Securit Analyst</a>, <a href="https://www.linkedin.com/in/michael-ogunjobi-60b08b167/">Cybersecurity</a>
+<h2>👨‍💻 Security Analyst:</h2>
 
   - [File permissions in Linux](https://github.com/Michaelogunjobi/ActiveDirectoryLab/blob/main/README.md))
-  - [Hello world!](https://github.com/Michaelogunjobi/LIBRARY)
+  - [DNS Analysis](https://github.com/Michaelogunjobi/Analyzing-DNS-Logs-Using-Splunk-SIEM/blob/main/README.md#analyzing-dns-logs-using-splunk-siem))
 
 <h2> Certification</h2>
 - [Google Cybersecurity Professional][www.google....]
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/michael-ogunjobi-60b08b167
 
 <!--
