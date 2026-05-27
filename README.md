@@ -24,7 +24,7 @@ Cybersecurity and IT Support professional based in Ontario, Canada. <br/><a href
   - [DNS Analysis](https://github.com/Michaelogunjobi/Analyzing-DNS-Logs-Using-Splunk-SIEM/blob/main/README.md#analyzing-dns-logs-using-splunk-siem))
 
 <h2> Certification</h2>
-- [Google Cybersecurity Professional]
+- .[Google Cybersecurity Professional]
 
 - [CompTIA Security+]
 
