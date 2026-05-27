@@ -16,8 +16,6 @@ Cybersecurity and IT Support professional based in Ontario, Canada. <br/><a href
 - Home Lab Projects
 - Python Security Automation
 
-## Connect With Me
-LinkedIn: <a href=https://www.linkedin.com/in/michaeljobi> </h3>
 
 <h2> Projects </h2>
   
@@ -27,6 +25,7 @@ LinkedIn: <a href=https://www.linkedin.com/in/michaeljobi> </h3>
 
 <h2> Certification</h2>
 - [Google Cybersecurity Professional][www.google....]
+- CompTIA Security+
 
 
 [linkedin]: https://linkedin.com/in/michael-ogunjobi-60b08b167
