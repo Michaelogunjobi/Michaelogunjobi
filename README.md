@@ -1,7 +1,6 @@
 <h1># Hi, I'm Michael 👋
 
 Cybersecurity and IT Support professional based in Ontario, Canada. <br/><a href="https://github.com/Michaelogunjobi">Securit Analyst</a>, <a href="https://www.linkedin.com/in/michael-ogunjobi-60b08b167/">Cybersecurity</a>
-<h2>👨‍💻 Security Analyst:</h2>
 
 <h3>
 
