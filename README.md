@@ -19,7 +19,7 @@ Cybersecurity and IT Support professional based in Ontario, Canada. <br/><a href
 
 <h2> Projects </h2>
   
-  - [Security Scripts](https://github.com/Michaelogunjobi/security-scripts/tree/portfolio-version))
+  - [Security Scripts](https://github.com/Michaelogunjobi/security-scripts))
   - [File permissions in Linux](https://github.com/Michaelogunjobi/ActiveDirectoryLab/blob/main/README.md))
   - [DNS Analysis](https://github.com/Michaelogunjobi/Analyzing-DNS-Logs-Using-Splunk-SIEM/blob/main/README.md#analyzing-dns-logs-using-splunk-siem))
 
