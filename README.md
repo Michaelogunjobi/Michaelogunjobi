@@ -1,5 +1,24 @@
-<h1>Hi, I'm Michael Ogunjobi! <br/><a href="https://github.com/Michaelogunjobi">Securit Analyst</a>, <a href="https://www.linkedin.com/in/michael-ogunjobi-60b08b167/">Cybersecurity</a>
+<h1># Hi, I'm Michael 👋
+
+Cybersecurity and IT Support professional based in Ontario, Canada. <br/><a href="https://github.com/Michaelogunjobi">Securit Analyst</a>, <a href="https://www.linkedin.com/in/michael-ogunjobi-60b08b167/">Cybersecurity</a>
 <h2>👨‍💻 Security Analyst:</h2>
+
+<h3>
+
+## Skills
+- Python
+- SIEM
+- Network Security
+- Active Directory
+- Vulnerability Assessment
+
+## Currently Working On
+- SOC Analyst Labs
+- Home Lab Projects
+- Python Security Automation
+
+## Connect With Me
+LinkedIn: linkedin.com/in/michaeljobi</h3>
 
   - [Security Scripts](https://github.com/Michaelogunjobi/security-scripts/tree/portfolio-version))
   - [File permissions in Linux](https://github.com/Michaelogunjobi/ActiveDirectoryLab/blob/main/README.md))
