@@ -1,7 +1,7 @@
 <h1>Hi, I'm Michael Ogunjobi! <br/><a href="https://github.com/Michaelogunjobi">Securit Analyst</a>, <a href="https://www.linkedin.com/in/michael-ogunjobi-60b08b167/">Cybersecurity</a>
 <h2>👨‍💻 Security Analyst:</h2>
 
-  -[Security Scripts](https://github.com/Michaelogunjobi/security-scripts/tree/portfolio-version)
+  - [Security Scripts](https://github.com/Michaelogunjobi/security-scripts/tree/portfolio-version))
   - [File permissions in Linux](https://github.com/Michaelogunjobi/ActiveDirectoryLab/blob/main/README.md))
   - [DNS Analysis](https://github.com/Michaelogunjobi/Analyzing-DNS-Logs-Using-Splunk-SIEM/blob/main/README.md#analyzing-dns-logs-using-splunk-siem))
 
