@@ -17,8 +17,10 @@ Cybersecurity and IT Support professional based in Ontario, Canada. <br/><a href
 - Python Security Automation
 
 ## Connect With Me
-LinkedIn: linkedin.com/in/michaeljobi</h3>
+LinkedIn: <a href=https://www.linkedin.com/in/michaeljobi> </h3>
 
+<h2> Projects </h2>
+  
   - [Security Scripts](https://github.com/Michaelogunjobi/security-scripts/tree/portfolio-version))
   - [File permissions in Linux](https://github.com/Michaelogunjobi/ActiveDirectoryLab/blob/main/README.md))
   - [DNS Analysis](https://github.com/Michaelogunjobi/Analyzing-DNS-Logs-Using-Splunk-SIEM/blob/main/README.md#analyzing-dns-logs-using-splunk-siem))
